@@ -1,10 +1,9 @@
 import React from 'react'
-import Btn from 'elements/Button'
-
+import Header from 'parts/Header'
 export default function Homepage() {
     return (
         <div>
-            <Btn isPrimary isSmall isWideMobile>Signup</Btn>
+            <Header></Header>
         </div>
     )
 }
