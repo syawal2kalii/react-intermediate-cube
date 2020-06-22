@@ -10,7 +10,7 @@ import Client05 from "assets/images/clients-05.svg";
 export default function Clients() {
   return (
     <Section className="clients">
-      <Fade bottom delay={2000}>
+      <Fade bottom delay={100}>
         <div className="container">
           <div className="clients-inner section-inner has-top-divider has-bottom-divider">
             <ul className="list-reset">
